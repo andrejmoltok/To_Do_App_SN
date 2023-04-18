@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 08:26:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ca66ac114812a510e4738b6f0cb7f229</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_828868_to_do">89907d35dbca611043ffc58605961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">89907d35dbca611043ffc58605961957</sys_scope>
+        <sys_update_name>m2m_app_config_theme_ca66ac114812a510e4738b6f0cb7f229</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 08:26:53</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">8266ac113b12a510fdc66371bf427929</theme>
+        <ux_app_configuration display_value="To Do Workspace Config">ce66ac114e12a510fe231cdd19bba528</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

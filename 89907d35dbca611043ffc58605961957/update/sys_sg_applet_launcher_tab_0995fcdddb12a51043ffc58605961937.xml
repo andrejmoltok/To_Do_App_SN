@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="To Do">c195fcdddb12a51043ffc58605961936</applet_launcher>
+        <icon display_value="File">c995fcdddb12a51043ffc58605961934</icon>
+        <label>To Do</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 09:33:08</sys_created_on>
+        <sys_id>0995fcdddb12a51043ffc58605961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do</sys_name>
+        <sys_package display_value="To Do" source="x_828868_to_do">89907d35dbca611043ffc58605961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">89907d35dbca611043ffc58605961957</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_0995fcdddb12a51043ffc58605961937</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 09:33:08</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
