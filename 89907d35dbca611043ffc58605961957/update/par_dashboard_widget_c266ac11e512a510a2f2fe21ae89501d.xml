@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">c666ac11a712a51074dfb9b9830fac1c</canvas>
+        <component display_value="">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":false,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_828868_to_do_to_do","filterQuery":"project=0bf92ae3db02211043ffc5860596196f","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzgyODg2OF90b19kb190b19kbzE2ODE4MDcyNTAzNzk=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"Work To Dos","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzgyODg2OF90b19kb190b19kbzE2ODE4MDcyNTAzNzk=","id":"ZEdGaWJHVjRYemd5T0RnMk9GOTBiMTlrYjE5MGIxOWtiekUyT0RFNE1EY3lOVEF6TnprPTE2ODE4MDcyNTA4MTM=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 08:26:53</sys_created_on>
+        <sys_id>c266ac11e512a510a2f2fe21ae89501d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_828868_to_do">89907d35dbca611043ffc58605961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">89907d35dbca611043ffc58605961957</sys_scope>
+        <sys_update_name>par_dashboard_widget_c266ac11e512a510a2f2fe21ae89501d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 08:40:58</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <x>32</x>
+        <y>3</y>
+    </par_dashboard_widget>
+</record_update>
